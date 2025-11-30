@@ -20,8 +20,8 @@
 
 ## Should you use this project as a base for commercial or large applications?
 
-- ❌ I don’t recommend using this code in real products without improvements  
-- ✅ But if you’re curious about how to make a minimal functional chat — welcome to explore!  
+- I don’t recommend using this code in real products without improvements  
+- But if you’re curious about how to make a minimal functional chat — welcome to explore!  
 
 ## What’s planned next?
 
